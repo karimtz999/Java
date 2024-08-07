@@ -1,0 +1,11 @@
+# Virtual environment
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Django specific
+*.sqlite3
+*.log
